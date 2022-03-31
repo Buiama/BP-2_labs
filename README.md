@@ -1,5 +1,5 @@
 # BP-2_labs
-Fundamentals of programming - 2. Modular programming
+Programming basics - 2. Modular programming
 
 Variant 5
 
